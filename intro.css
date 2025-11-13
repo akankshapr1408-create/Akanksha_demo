@@ -1,0 +1,27 @@
+#box1{
+    border: 2px solid rgb(171, 112, 171);
+    padding:10px;
+    margin:10px;
+    background-color: lightgrey;
+    font-size: medium;
+    font-family: Arial, sans-serif;
+    color: brown;
+}
+#box2{
+    border: 2px solid rgb(131, 158, 216);
+    padding:10px;
+    margin:10px;
+    background-color: rgb(6, 46, 59);
+    font-size: medium;
+    font-family: Arial, sans-serif;
+    color: rgb(58, 78, 58);
+}
+#box3{
+    border: 2px solid rgb(225, 94, 94);
+    padding:10px;
+    margin:10px;
+    background-color: rgb(232, 232, 147);
+    font-size: medium;
+    font-family: Arial, sans-serif;
+    color: rgb(165, 165, 222);
+}
